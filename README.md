@@ -1,0 +1,2 @@
+# dataman
+data management class 
